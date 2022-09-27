@@ -14,3 +14,6 @@ The app consists of 2 main screens, Home and Details (can be seen in the [galler
 
 
 [Details page while scrolling](https://i.imgur.com/6Zpo1pb.mp4")
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bwh4SnN" data-context="false" ><a href="//imgur.com/a/bwh4SnN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
